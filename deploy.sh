@@ -3,7 +3,7 @@
 # to run this type ./deploy.sh
 
 # Build the project.
-hugo 
+hugo
 
 # Add changes to git.
 git add .

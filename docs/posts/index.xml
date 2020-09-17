@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jake Notes</title>
-    <link>jakenmoore.github.io/</link>
-    <description>Recent content on Jake Notes</description>
+    <title>Posts on Jake Notes</title>
+    <link>jakenmoore.github.io/posts/</link>
+    <description>Recent content in Posts on Jake Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2020 14:33:59 -0400</lastBuildDate><atom:link href="jakenmoore.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>jakenmoore.github.io/about/</link>
-      <pubDate>Wed, 16 Sep 2020 15:06:26 -0400</pubDate>
-      
-      <guid>jakenmoore.github.io/about/</guid>
-      <description>This is the personal blog of Jake Moore.
-All the views are my own.
-Updated 1449.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 16 Sep 2020 14:33:59 -0400</lastBuildDate><atom:link href="jakenmoore.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jake</title>
       <link>jakenmoore.github.io/posts/jake/</link>
