@@ -6,4 +6,4 @@ tags: ["tag3"]
 categories: ["cat3"]
 ---
 
-This is about Jake 
+Post about Jake, not the about page. 
