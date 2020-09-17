@@ -2,6 +2,7 @@ baseURL = "jakenmoore.github.io"
 languageCode = "en-us"
 title = "Jake Notes"
 theme = "cactus"
+publishDir = "docs"
 
 [[menu.main]]
 name = "Home"
