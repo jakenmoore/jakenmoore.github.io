@@ -31,7 +31,7 @@ weight = 5
 [params]
   colortheme = "white" # dark, light, white, or classic
   # Home page settings
-  description = "This is the personal blog of Jake Moore. Why is this not updating?"
+  description = "This config header is not working"
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 25 # this option will be ignored if showAllPostsOnHomePage is set to true
