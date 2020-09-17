@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/jakenmoore/jakenmoore.github.io.git
+	branch = master
+[submodule "themes/cactus"]
+	path = themes/cactus
+	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
