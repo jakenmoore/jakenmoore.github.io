@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# to run this type ./deploy.sh
+
 # Build the project.
 hugo -t cactus
 
