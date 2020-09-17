@@ -2,11 +2,11 @@
 title: "Markdown Guide"
 date: 2020-09-16T14:23:54-04:00
 draft: false
-tags: ["tag1", "tag2"]
+tags: ["markdown"]
 categories: ["coding"]
 ---
 
-
+this is a favicon ![alt](https://commonmark.org/help/images/favicon.png)
 
 # Markdown Cheat Sheet
 

@@ -1,5 +1,5 @@
 ---
-title: "300swings30days_updated"
+title: "300 swings 30 days updated"
 date: 2020-09-17T16:54:54-04:00
 draft: true
 tags: ["fitness", "self-development", "kettlebells"]
