@@ -8,4 +8,4 @@ This is the personal blog of Jake Moore.
 
 All the views are my own.
 
-Updated 1449. 
+Updated 1449.
