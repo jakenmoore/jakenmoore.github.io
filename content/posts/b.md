@@ -6,4 +6,4 @@ tags: ["tag2"]
 categories: ["cat2"]
 ---
 
-This is dir1/b.md
+This is a post
