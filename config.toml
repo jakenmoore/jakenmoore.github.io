@@ -31,7 +31,7 @@ weight = 5
 [params]
   colortheme = "white" # dark, light, white, or classic
   # Home page settings
-  description = "This is the personal blog of Jake Moore. I blog on topics that interest me including personal growth, investing, global affairs and working out. "
+  description = "This is the personal blog of Jake Moore"
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 25 # this option will be ignored if showAllPostsOnHomePage is set to true
