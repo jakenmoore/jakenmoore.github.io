@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Jake Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2020 14:23:54 -0400</lastBuildDate><atom:link href="jakenmoore.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Sep 2020 09:06:37 -0400</lastBuildDate><atom:link href="jakenmoore.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tag1</title>
+      <link>jakenmoore.github.io/tags/tag1/</link>
+      <pubDate>Fri, 18 Sep 2020 09:06:37 -0400</pubDate>
+      
+      <guid>jakenmoore.github.io/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag2</title>
+      <link>jakenmoore.github.io/tags/tag2/</link>
+      <pubDate>Fri, 18 Sep 2020 09:06:37 -0400</pubDate>
+      
+      <guid>jakenmoore.github.io/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>markdown</title>
       <link>jakenmoore.github.io/tags/markdown/</link>

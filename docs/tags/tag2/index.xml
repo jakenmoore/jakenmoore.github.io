@@ -6,16 +6,14 @@
     <description>Recent content in tag2 on Jake Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2020 14:23:54 -0400</lastBuildDate><atom:link href="jakenmoore.github.io/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Sep 2020 09:06:37 -0400</lastBuildDate><atom:link href="jakenmoore.github.io/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown Guide</title>
-      <link>jakenmoore.github.io/posts/markdown_guide/</link>
-      <pubDate>Wed, 16 Sep 2020 14:23:54 -0400</pubDate>
+      <title>Ben</title>
+      <link>jakenmoore.github.io/posts/ben/</link>
+      <pubDate>Fri, 18 Sep 2020 09:06:37 -0400</pubDate>
       
-      <guid>jakenmoore.github.io/posts/markdown_guide/</guid>
-      <description>Markdown Cheat Sheet Thanks for visiting The Markdown Guide!
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.
-Basic Syntax These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.</description>
+      <guid>jakenmoore.github.io/posts/ben/</guid>
+      <description>Text text text</description>
     </item>
     
   </channel>
