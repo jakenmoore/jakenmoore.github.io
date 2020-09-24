@@ -1,5 +1,6 @@
 ---
-title: "Book review"
+title: "Book review
+"
 date: 2020-09-17T16:53:28-04:00
 draft: true
 tags: []
