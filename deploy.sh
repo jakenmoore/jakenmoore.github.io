@@ -5,8 +5,6 @@
 # Build the project.
 hugo -t cactus
 
-
-
 # Add changes to git.
 git add .
 
