@@ -1,4 +1,4 @@
-baseURL = "jakenmoore.github.io"
+baseURL = "https://jakenotes.com"
 languageCode = "en-us"
 title = "Jake Notes"
 theme = "cactus"
@@ -11,22 +11,22 @@ weight = 1
 
 [[menu.main]]
 name = "Writings"
-url = "posts"
+url = "/posts/"
 weight = 2
 
 [[menu.main]]
 name = "About"
-url = "about"
+url = "/about/"
 weight = 3
 
 [[menu.main]]
 name = "Categories"
-url = "categories/"
+url = "/categories/"
 weight = 4
 
 [[menu.main]]
 name = "Tags"
-url = "tags/"
+url = "/tags/"
 weight = 5
 
 [params]

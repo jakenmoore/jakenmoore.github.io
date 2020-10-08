@@ -2,6 +2,9 @@
 
 # to run this type ./deploy.sh
 
+# Wipe old docs first
+rm -rvf docs/
+
 # Build the project.
 hugo -t cactus
 

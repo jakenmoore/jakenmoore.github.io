@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jake Notes</title>
-    <link>jakenmoore.github.io/categories/</link>
+    <link>https://jakenotes.com/categories/</link>
     <description>Recent content in Categories on Jake Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2020 14:23:54 -0400</lastBuildDate><atom:link href="jakenmoore.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Sep 2020 14:23:54 -0400</lastBuildDate><atom:link href="https://jakenotes.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>coding</title>
-      <link>jakenmoore.github.io/categories/coding/</link>
+      <link>https://jakenotes.com/categories/coding/</link>
       <pubDate>Wed, 16 Sep 2020 14:23:54 -0400</pubDate>
       
-      <guid>jakenmoore.github.io/categories/coding/</guid>
+      <guid>https://jakenotes.com/categories/coding/</guid>
       <description></description>
     </item>
     
