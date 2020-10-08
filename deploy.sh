@@ -8,6 +8,9 @@ rm -rvf docs/
 # Build the project.
 hugo -t cactus
 
+# Copy the CNAME file
+cp -vf ./CNAME docs/CNAME
+
 # Add changes to git.
 git add .
 
