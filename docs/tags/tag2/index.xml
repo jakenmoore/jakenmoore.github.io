@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tag2 on Jake Notes</title>
-    <link>https://jakenotes.com/tags/tag2/</link>
+    <link>http://localhost:1313/tags/tag2/</link>
     <description>Recent content in tag2 on Jake Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2020 09:06:37 -0400</lastBuildDate><atom:link href="https://jakenotes.com/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Sep 2020 09:06:37 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ben</title>
-      <link>https://jakenotes.com/posts/ben/</link>
+      <link>http://localhost:1313/posts/ben/</link>
       <pubDate>Fri, 18 Sep 2020 09:06:37 -0400</pubDate>
       
-      <guid>https://jakenotes.com/posts/ben/</guid>
+      <guid>http://localhost:1313/posts/ben/</guid>
       <description>This is Ben text</description>
     </item>
     

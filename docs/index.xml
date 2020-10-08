@@ -2,26 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jake Notes</title>
-    <link>https://jakenotes.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Jake Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2020 09:06:37 -0400</lastBuildDate><atom:link href="https://jakenotes.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Sep 2020 12:16:29 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Review: Killing Commendatore</title>
+      <link>http://localhost:1313/posts/killing_commendatore/</link>
+      <pubDate>Sun, 27 Sep 2020 12:16:29 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/killing_commendatore/</guid>
+      <description>Killing Commendatore by Murakami Haruki I think I have read every book by Murakami and I would regard him as my favorite author. I say I would regard him, because sometimes his work departs from my ideas of things, my idea of reality.</description>
+    </item>
+    
     <item>
       <title>Ben</title>
-      <link>https://jakenotes.com/posts/ben/</link>
+      <link>http://localhost:1313/posts/ben/</link>
       <pubDate>Fri, 18 Sep 2020 09:06:37 -0400</pubDate>
       
-      <guid>https://jakenotes.com/posts/ben/</guid>
+      <guid>http://localhost:1313/posts/ben/</guid>
       <description>This is Ben text</description>
     </item>
     
     <item>
+      <title>Changes to the blog</title>
+      <link>http://localhost:1313/posts/changes_to_the_blog/</link>
+      <pubDate>Thu, 17 Sep 2020 17:17:51 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/changes_to_the_blog/</guid>
+      <description>Things I&amp;rsquo;d like to change.
+ cactus colors  </description>
+    </item>
+    
+    <item>
+      <title>Thoughts on markets</title>
+      <link>http://localhost:1313/posts/thoughts_on_markets/</link>
+      <pubDate>Thu, 17 Sep 2020 16:57:29 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/thoughts_on_markets/</guid>
+      <description>These are random thoughts on markets.</description>
+    </item>
+    
+    <item>
+      <title>300 swings 30 days updated</title>
+      <link>http://localhost:1313/posts/300swings30days/</link>
+      <pubDate>Thu, 17 Sep 2020 16:54:54 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/300swings30days/</guid>
+      <description>So I read a challenge on the web to do 300 kettlebell swings with a 24kg bell for 30 days. I am not sure why I have to add a line here. What is the difference with one line break. I am not sure.
+This is a test.</description>
+    </item>
+    
+    <item>
+      <title>Project list</title>
+      <link>http://localhost:1313/posts/project_list/</link>
+      <pubDate>Thu, 17 Sep 2020 16:52:09 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/project_list/</guid>
+      <description>This is a list of projects.</description>
+    </item>
+    
+    <item>
       <title>About</title>
-      <link>https://jakenotes.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 16 Sep 2020 15:06:26 -0400</pubDate>
       
-      <guid>https://jakenotes.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>This is the personal blog of Jake Moore.
 All the views are my own.
 Updated 1449.</description>
@@ -29,10 +76,10 @@ Updated 1449.</description>
     
     <item>
       <title>Markdown Guide</title>
-      <link>https://jakenotes.com/posts/markdown_guide/</link>
+      <link>http://localhost:1313/posts/markdown_guide/</link>
       <pubDate>Wed, 16 Sep 2020 14:23:54 -0400</pubDate>
       
-      <guid>https://jakenotes.com/posts/markdown_guide/</guid>
+      <guid>http://localhost:1313/posts/markdown_guide/</guid>
       <description>this is a favicon Markdown Cheat Sheet Thanks for visiting The Markdown Guide!
 This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.
 Basic Syntax These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.</description>

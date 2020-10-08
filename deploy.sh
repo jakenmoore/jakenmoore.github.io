@@ -12,7 +12,7 @@ hugo -t cactus
 cp -vf ./CNAME docs/CNAME
 
 # HACK: Have to use --renderToDisk
-timeout 10 hugo server -D --renderToDisk
+timeout 5 hugo server -D --renderToDisk
 
 # Add changes to git.
 git add .
