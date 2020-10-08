@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Jake Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2020 12:16:29 -0400</lastBuildDate><atom:link href="https://jakenotes.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Oct 2020 15:59:21 -0400</lastBuildDate><atom:link href="https://jakenotes.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>reviews</title>
+      <link>https://jakenotes.com/categories/reviews/</link>
+      <pubDate>Thu, 08 Oct 2020 15:59:21 -0400</pubDate>
+      
+      <guid>https://jakenotes.com/categories/reviews/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>book_reviews</title>
       <link>https://jakenotes.com/categories/book_reviews/</link>
