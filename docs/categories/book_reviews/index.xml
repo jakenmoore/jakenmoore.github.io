@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>book_reviews on Jake Notes</title>
-    <link>http://localhost:1313/categories/book_reviews/</link>
+    <link>https://jakenotes.com/categories/book_reviews/</link>
     <description>Recent content in book_reviews on Jake Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2020 12:16:29 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/book_reviews/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Sep 2020 12:16:29 -0400</lastBuildDate><atom:link href="https://jakenotes.com/categories/book_reviews/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book Review: Killing Commendatore</title>
-      <link>http://localhost:1313/posts/killing_commendatore/</link>
+      <link>https://jakenotes.com/posts/killing_commendatore/</link>
       <pubDate>Sun, 27 Sep 2020 12:16:29 -0400</pubDate>
       
-      <guid>http://localhost:1313/posts/killing_commendatore/</guid>
+      <guid>https://jakenotes.com/posts/killing_commendatore/</guid>
       <description>Killing Commendatore by Murakami Haruki I think I have read every book by Murakami and I would regard him as my favorite author. I say I would regard him, because sometimes his work departs from my ideas of things, my idea of reality.</description>
     </item>
     

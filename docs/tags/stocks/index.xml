@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>stocks on Jake Notes</title>
-    <link>http://localhost:1313/tags/stocks/</link>
+    <link>https://jakenotes.com/tags/stocks/</link>
     <description>Recent content in stocks on Jake Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2020 16:57:29 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/stocks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Sep 2020 16:57:29 -0400</lastBuildDate><atom:link href="https://jakenotes.com/tags/stocks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thoughts on markets</title>
-      <link>http://localhost:1313/posts/thoughts_on_markets/</link>
+      <link>https://jakenotes.com/posts/thoughts_on_markets/</link>
       <pubDate>Thu, 17 Sep 2020 16:57:29 -0400</pubDate>
       
-      <guid>http://localhost:1313/posts/thoughts_on_markets/</guid>
+      <guid>https://jakenotes.com/posts/thoughts_on_markets/</guid>
       <description>These are random thoughts on markets.</description>
     </item>
     

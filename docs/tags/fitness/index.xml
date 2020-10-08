@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fitness on Jake Notes</title>
-    <link>http://localhost:1313/tags/fitness/</link>
+    <link>https://jakenotes.com/tags/fitness/</link>
     <description>Recent content in fitness on Jake Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2020 16:54:54 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/fitness/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Sep 2020 16:54:54 -0400</lastBuildDate><atom:link href="https://jakenotes.com/tags/fitness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>300 swings 30 days updated</title>
-      <link>http://localhost:1313/posts/300swings30days/</link>
+      <link>https://jakenotes.com/posts/300swings30days/</link>
       <pubDate>Thu, 17 Sep 2020 16:54:54 -0400</pubDate>
       
-      <guid>http://localhost:1313/posts/300swings30days/</guid>
+      <guid>https://jakenotes.com/posts/300swings30days/</guid>
       <description>So I read a challenge on the web to do 300 kettlebell swings with a 24kg bell for 30 days. I am not sure why I have to add a line here. What is the difference with one line break. I am not sure.
 This is a test.</description>
     </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>coding on Jake Notes</title>
-    <link>http://localhost:1313/categories/coding/</link>
+    <link>https://jakenotes.com/categories/coding/</link>
     <description>Recent content in coding on Jake Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2020 14:23:54 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/coding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Sep 2020 14:23:54 -0400</lastBuildDate><atom:link href="https://jakenotes.com/categories/coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Guide</title>
-      <link>http://localhost:1313/posts/markdown_guide/</link>
+      <link>https://jakenotes.com/posts/markdown_guide/</link>
       <pubDate>Wed, 16 Sep 2020 14:23:54 -0400</pubDate>
       
-      <guid>http://localhost:1313/posts/markdown_guide/</guid>
+      <guid>https://jakenotes.com/posts/markdown_guide/</guid>
       <description>this is a favicon Markdown Cheat Sheet Thanks for visiting The Markdown Guide!
 This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.
 Basic Syntax These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.</description>

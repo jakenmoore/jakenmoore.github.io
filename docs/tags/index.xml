@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jake Notes</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://jakenotes.com/tags/</link>
     <description>Recent content in Tags on Jake Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2020 12:16:29 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Sep 2020 12:16:29 -0400</lastBuildDate><atom:link href="https://jakenotes.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>books</title>
-      <link>http://localhost:1313/tags/books/</link>
+      <link>https://jakenotes.com/tags/books/</link>
       <pubDate>Sun, 27 Sep 2020 12:16:29 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/books/</guid>
+      <guid>https://jakenotes.com/tags/books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag1</title>
-      <link>http://localhost:1313/tags/tag1/</link>
+      <link>https://jakenotes.com/tags/tag1/</link>
       <pubDate>Fri, 18 Sep 2020 09:06:37 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/tag1/</guid>
+      <guid>https://jakenotes.com/tags/tag1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag2</title>
-      <link>http://localhost:1313/tags/tag2/</link>
+      <link>https://jakenotes.com/tags/tag2/</link>
       <pubDate>Fri, 18 Sep 2020 09:06:37 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/tag2/</guid>
+      <guid>https://jakenotes.com/tags/tag2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markets</title>
-      <link>http://localhost:1313/tags/markets/</link>
+      <link>https://jakenotes.com/tags/markets/</link>
       <pubDate>Thu, 17 Sep 2020 16:57:29 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/markets/</guid>
+      <guid>https://jakenotes.com/tags/markets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stocks</title>
-      <link>http://localhost:1313/tags/stocks/</link>
+      <link>https://jakenotes.com/tags/stocks/</link>
       <pubDate>Thu, 17 Sep 2020 16:57:29 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/stocks/</guid>
+      <guid>https://jakenotes.com/tags/stocks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fitness</title>
-      <link>http://localhost:1313/tags/fitness/</link>
+      <link>https://jakenotes.com/tags/fitness/</link>
       <pubDate>Thu, 17 Sep 2020 16:54:54 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/fitness/</guid>
+      <guid>https://jakenotes.com/tags/fitness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kettlebells</title>
-      <link>http://localhost:1313/tags/kettlebells/</link>
+      <link>https://jakenotes.com/tags/kettlebells/</link>
       <pubDate>Thu, 17 Sep 2020 16:54:54 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/kettlebells/</guid>
+      <guid>https://jakenotes.com/tags/kettlebells/</guid>
       <description></description>
     </item>
     
     <item>
       <title>self-development</title>
-      <link>http://localhost:1313/tags/self-development/</link>
+      <link>https://jakenotes.com/tags/self-development/</link>
       <pubDate>Thu, 17 Sep 2020 16:54:54 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/self-development/</guid>
+      <guid>https://jakenotes.com/tags/self-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
+      <link>https://jakenotes.com/tags/markdown/</link>
       <pubDate>Wed, 16 Sep 2020 14:23:54 -0400</pubDate>
       
-      <guid>http://localhost:1313/tags/markdown/</guid>
+      <guid>https://jakenotes.com/tags/markdown/</guid>
       <description></description>
     </item>
     
