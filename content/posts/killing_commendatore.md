@@ -1,7 +1,7 @@
 ---
 title: "Book Review: Killing Commendatore"
 date: 2020-09-27T12:16:29-04:00
-draft: true
+draft: false
 tags: ["books"]
 categories: ["book_reviews"]
 ---

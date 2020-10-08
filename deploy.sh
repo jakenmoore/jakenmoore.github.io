@@ -12,10 +12,10 @@ hugo -t cactus
 cp -vf ./CNAME docs/CNAME
 
 # HACK: Have to use --renderToDisk
-timeout 5 hugo server -D --renderToDisk
+#timeout 5 hugo server -D --renderToDisk
 
 # HACK: Replace localhost with domain
-find docs/ -type f -exec sed -i '' -e 's|http://localhost:1313|https://jakenotes.com|g' {} \;
+#find docs/ -type f -exec sed -i '' -e 's|http://localhost:1313|https://jakenotes.com|g' {} \;
 
 # Add changes to git.
 git add .
