@@ -1,9 +1,9 @@
 ---
-title: "300 swings 30 days updated"
+title: "300 swings 30 days"
 date: 2020-09-17T16:54:54-04:00
 draft: false
 tags: ["fitness", "self-development", "kettlebells"]
-categories: ["projects"]
+categories: ["fitness"]
 ---
 
 

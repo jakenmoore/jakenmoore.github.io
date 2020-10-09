@@ -64,6 +64,9 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ![alt text](image.jpg)
 
+# this one puts it in the static/static folder 
+![Example image](/static/image.png)
+
 ## Extended Syntax
 
 These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
