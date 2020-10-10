@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jake Notes</title>
-    <link>https://jakenotes.com/</link>
-    <description>Recent content on Jake Notes</description>
+    <title>Posts on Jake Notes</title>
+    <link>https://jakenotes.com/posts/</link>
+    <description>Recent content in Posts on Jake Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2020 11:44:44 -0400</lastBuildDate><atom:link href="https://jakenotes.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Oct 2020 11:44:44 -0400</lastBuildDate><atom:link href="https://jakenotes.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>300 Swings Challenge</title>
       <link>https://jakenotes.com/posts/300swingschallenge/</link>
@@ -42,17 +42,6 @@
       
       <guid>https://jakenotes.com/posts/thoughts_on_markets/</guid>
       <description>These are random thoughts on markets.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://jakenotes.com/about/</link>
-      <pubDate>Wed, 16 Sep 2020 15:06:26 -0400</pubDate>
-      
-      <guid>https://jakenotes.com/about/</guid>
-      <description>This is the personal blog of Jake Moore.
-All the views are my own.
-Updated 1449.</description>
     </item>
     
     <item>

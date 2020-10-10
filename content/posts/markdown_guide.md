@@ -1,7 +1,7 @@
 ---
 title: "Markdown Guide"
 date: 2020-09-16T14:23:54-04:00
-draft: true
+draft: false
 tags: ["markdown"]
 ---
 
