@@ -3,7 +3,6 @@ title: "Markdown Guide"
 date: 2020-09-16T14:23:54-04:00
 draft: true
 tags: ["markdown"]
-categories: ["coding"]
 ---
 
 this is a favicon ![alt](https://commonmark.org/help/images/favicon.png)
@@ -64,7 +63,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ![alt text](image.jpg)
 
-# this one puts it in the static/static folder 
+# this one puts it in the static/static folder
 ![Example image](/static/image.png)
 
 ## Extended Syntax

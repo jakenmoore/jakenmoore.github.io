@@ -3,7 +3,6 @@ title: "Book Review: Killing Commendatore"
 date: 2020-09-27T12:16:29-04:00
 draft: true
 tags: ["books"]
-categories: ["book reviews"]
 ---
 
 ### Killing Commendatore by Murakami Haruki
