@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fitness on Jake Notes</title>
-    <link>https://jakenotes.com/tags/fitness/</link>
+    <link>https://jakenotes.com/categories/fitness/</link>
     <description>Recent content in fitness on Jake Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2020 11:44:44 -0400</lastBuildDate><atom:link href="https://jakenotes.com/tags/fitness/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Oct 2020 11:44:44 -0400</lastBuildDate><atom:link href="https://jakenotes.com/categories/fitness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>300 Swings Challenge</title>
       <link>https://jakenotes.com/posts/300swingschallenge/</link>

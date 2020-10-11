@@ -8,12 +8,27 @@
   </url>
   
   <url>
+    <loc>https://jakenotes.com/categories/</loc>
+    <lastmod>2020-10-10T11:44:44-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jakenotes.com/tags/fitness/</loc>
     <lastmod>2020-10-10T11:44:44-04:00</lastmod>
   </url>
   
   <url>
+    <loc>https://jakenotes.com/categories/fitness/</loc>
+    <lastmod>2020-10-10T11:44:44-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jakenotes.com/</loc>
+    <lastmod>2020-10-10T11:44:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jakenotes.com/tags/kettlebells/</loc>
     <lastmod>2020-10-10T11:44:44-04:00</lastmod>
   </url>
   
@@ -70,10 +85,6 @@
   <url>
     <loc>https://jakenotes.com/posts/markdown_guide/</loc>
     <lastmod>2020-09-16T14:23:54-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jakenotes.com/categories/</loc>
   </url>
   
 </urlset>
