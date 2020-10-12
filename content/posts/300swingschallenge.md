@@ -17,8 +17,8 @@ a day and certainly not with a 24kg bell. The hardest pure swings set I did was
 
 So I would say my preparation for 300 a day with 24kg was not perfect and I don't
 recommend it. Far better would be to build up weight, sets and reps. In addition,
-I started the 300 in as tough a way as possible, doing a workout of 20 reps each
-minute on the minute for 15 minutes. This was very tough. The next day I felt tired.
+I started the 300 in an 'all-in' way, doing a workout of 20 reps each
+minute on the minute for 15 minutes. This was silly for day 1 and the next day I felt tired.
 
 For the first week the challenge was a little draining. I switched to 20 sets of
 15, emom, so it was a nice 20 minute workout. My lower back felt tired during
