@@ -34,11 +34,14 @@ weight = 5
   # Home page settings
   description = "Personal blog of Jake Moore"
   mainSection = "posts" # your main section
-  showAllPostsOnHomePage = false # default
+  showAllPostsOnHomePage = true # default
   postsOnHomePage = 25 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = false # show tags overview by default.
   showProjectsList = true # show projects list by default (if projects data file exists).
   rss = true # https://jakenotes.com/index.xml
+  [params.comments]
+    enabled = true
+
 
 [markup]
   [markup.highlight]

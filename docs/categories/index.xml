@@ -6,22 +6,22 @@
     <description>Recent content in Categories on Jake Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2020 12:16:29 -0400</lastBuildDate><atom:link href="https://jakenotes.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>book reviews</title>
-      <link>https://jakenotes.com/categories/book-reviews/</link>
-      <pubDate>Sat, 10 Oct 2020 12:16:29 -0400</pubDate>
-      
-      <guid>https://jakenotes.com/categories/book-reviews/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 10 Oct 2020 11:44:44 -0400</lastBuildDate><atom:link href="https://jakenotes.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>fitness</title>
       <link>https://jakenotes.com/categories/fitness/</link>
       <pubDate>Sat, 10 Oct 2020 11:44:44 -0400</pubDate>
       
       <guid>https://jakenotes.com/categories/fitness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book reviews</title>
+      <link>https://jakenotes.com/categories/book-reviews/</link>
+      <pubDate>Wed, 07 Oct 2020 12:16:29 -0400</pubDate>
+      
+      <guid>https://jakenotes.com/categories/book-reviews/</guid>
       <description></description>
     </item>
     

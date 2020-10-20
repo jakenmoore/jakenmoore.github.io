@@ -6,25 +6,7 @@
     <description>Recent content in Tags on Jake Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2020 12:16:29 -0400</lastBuildDate><atom:link href="https://jakenotes.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>books</title>
-      <link>https://jakenotes.com/tags/books/</link>
-      <pubDate>Sat, 10 Oct 2020 12:16:29 -0400</pubDate>
-      
-      <guid>https://jakenotes.com/tags/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reviews</title>
-      <link>https://jakenotes.com/tags/reviews/</link>
-      <pubDate>Sat, 10 Oct 2020 12:16:29 -0400</pubDate>
-      
-      <guid>https://jakenotes.com/tags/reviews/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 10 Oct 2020 11:44:44 -0400</lastBuildDate><atom:link href="https://jakenotes.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>fitness</title>
       <link>https://jakenotes.com/tags/fitness/</link>
@@ -40,6 +22,24 @@
       <pubDate>Sat, 10 Oct 2020 11:44:44 -0400</pubDate>
       
       <guid>https://jakenotes.com/tags/kettlebells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>books</title>
+      <link>https://jakenotes.com/tags/books/</link>
+      <pubDate>Wed, 07 Oct 2020 12:16:29 -0400</pubDate>
+      
+      <guid>https://jakenotes.com/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reviews</title>
+      <link>https://jakenotes.com/tags/reviews/</link>
+      <pubDate>Wed, 07 Oct 2020 12:16:29 -0400</pubDate>
+      
+      <guid>https://jakenotes.com/tags/reviews/</guid>
       <description></description>
     </item>
     
