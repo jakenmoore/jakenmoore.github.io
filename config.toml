@@ -39,8 +39,8 @@ weight = 5
   tagsOverview = false # show tags overview by default.
   showProjectsList = true # show projects list by default (if projects data file exists).
   rss = true # https://jakenotes.com/index.xml
-  [params.comments]
-    enabled = true
+  # [params.comments]
+  #   enabled = true
 
 
 [markup]
