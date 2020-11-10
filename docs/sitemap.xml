@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jakenotes.com/posts/metropolis/</loc>
+    <lastmod>2020-11-10T11:38:07-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jakenotes.com/categories/book-reviews/</loc>
     <lastmod>2020-11-10T11:38:07-05:00</lastmod>
   </url>
@@ -19,11 +24,6 @@
   
   <url>
     <loc>https://jakenotes.com/</loc>
-    <lastmod>2020-11-10T11:38:07-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jakenotes.com/posts/metropolis/</loc>
     <lastmod>2020-11-10T11:38:07-05:00</lastmod>
   </url>
   

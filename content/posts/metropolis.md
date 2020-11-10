@@ -1,5 +1,5 @@
 ---
-title: "Metropolis"
+title: "Book Review: Metropolis"
 date: 2020-11-10T11:38:07-05:00
 draft: false
 tags: ["books", "reviews"]
@@ -11,6 +11,6 @@ It is with such a heavy heart that I finished Metropolis. I found Philip Kerr vi
 
 Metropolis is the last in the series and Philip Kerr died of cancer two years ago. When someone has been with one for such a long period, it is hard not to really feel their death. Kerr taught me so much about history, writing and the character of Bernie Gunther is so brilliant and complex.
 
-The book in set in Berlin in the final year or so before the fall of democracy to Nazism. There are hints of what is to come, but the book is a proper detective story. Sadly, I could feel that Kerr didn't put all he wanted into the book and the end is a little rushed. At the same time, I could almost feel Kerr's pain in the pages, particularly as the book wore on. I've given it 5/5 for my love of his work and for my great sadness at it's end. 
+The book in set in Berlin in the final year or so before the fall of democracy to Nazism. There are hints of what is to come, but the book is a proper detective story. Sadly, I could feel that Kerr didn't put all he wanted into the book and the end is a little rushed. At the same time, I could almost feel Kerr's pain in the pages, particularly as the book wore on. I've given it 5/5 for my love of his work and for my great sadness at it's end.
 
 Rest in peace Philip.
