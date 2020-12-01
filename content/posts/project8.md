@@ -12,4 +12,4 @@ For the rest of the week I will absolutely minimize the amount of sugar I eat so
 
 I will continue to follow my 90 day weight lifting program, even if it is tough on one or two days a week. Basically, I will be shredded after eight weeks :).
 
-Fasting has a number of physiological benefits, maybe I will write about them, such as autophagy. Just as important for me is the mental aspect. I will write about this more. Wish me luck. 
+Fasting has a number of physiological benefits, maybe I will write about them, such as autophagy. Just as important for me is the mental aspect. I will write about this more. Wish me luck.
